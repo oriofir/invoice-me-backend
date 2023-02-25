@@ -46,4 +46,20 @@ const InvoiceSchema = new mongoose.Schema({
     type: String,
     required: false,
   },
+  rate: {
+    type: Number,
+    required: true,
+  },
+  quantiy: {
+    type: Number,
+    required: true,
+  },
+  totalAmount: {
+    type: Number,
+    required: true,
+  },
+  item: {
+    type: String,
+    required: true,
+  },
 });
