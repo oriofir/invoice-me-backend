@@ -1,0 +1,54 @@
+[{
+   "title": "Invoice 1 Photography",
+   "date": "08/16/2023",
+   "nameFrom": "Ori",
+   "emailFrom": "ori@gmail.com",
+   "addressFrom": "123 Lookout Ave",
+   "phoneNumberFrom": 1214467793,
+   "nameTo": "Client",
+   "emailTo": "client@email.com",
+   "addressTo": "126 Street Blvd",
+   "PhoneNumberTo": 3235652266,
+   "terms": "payment on receipt",
+   "rate": 50,
+   "quatity": 3,
+   "totalAmount": 150,
+   "item": "Photography"
+   
+},
+{
+    "title": "Invoice 2 Retouching",
+    "date": "09/26/2023",
+    "nameFrom": "Bob",
+    "emailFrom": "bob@gmail.com",
+    "addressFrom": "1267 Lookout Ave",
+    "phoneNumberFrom": 12144674628,
+    "nameTo": "Client wow",
+    "emailTo": "clientwow@email.com",
+    "addressTo": "126ds Street Blvd",
+    "PhoneNumberTo": 3235652266,
+    "terms": "payment on receipt",
+    "rate": 50,
+    "quatity": 3,
+    "totalAmount": 150,
+    "item": "Photography"
+    
+ },{
+    "title": "Invoice 1 Photography",
+    "date": "05/06/2023",
+    "nameFrom": "Ori",
+    "emailFrom": "ori@gmail.com",
+    "addressFrom": "123 Lookout Ave",
+    "phoneNumberFrom": 1214467793,
+    "nameTo": "Client",
+    "emailTo": "client@email.com",
+    "addressTo": "126 Street Blvd",
+    "PhoneNumberTo": 3235652266,
+    "terms": "payment on receipt",
+    "rate": 50,
+    "quatity": 3,
+    "totalAmount": 150,
+    "item": "Photography"
+    
+ }
+]

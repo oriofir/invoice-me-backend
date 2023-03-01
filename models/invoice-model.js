@@ -6,7 +6,7 @@ const InvoiceSchema = new mongoose.Schema({
     required: false,
   },
   date: {
-    type: Date,
+    type: String,
     required: true,
   },
   nameFrom: {
@@ -63,3 +63,7 @@ const InvoiceSchema = new mongoose.Schema({
     required: true,
   },
 });
+
+const Invoice = mongoose.model("Invoice", InvoiceSchema);
+
+module.exports = Invoice;
