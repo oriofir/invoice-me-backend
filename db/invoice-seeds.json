@@ -25,30 +25,30 @@
     "phoneNumberFrom": 12144674628,
     "nameTo": "Client wow",
     "emailTo": "clientwow@email.com",
-    "addressTo": "126ds Street Blvd",
-    "PhoneNumberTo": 3235652266,
+    "addressTo": "2334 Street Blvd",
+    "PhoneNumberTo": 3255352266,
     "terms": "payment on receipt",
-    "rate": 50,
-    "quatity": 3,
-    "totalAmount": 150,
-    "item": "Photography"
+    "rate": 30,
+    "quatity": 1,
+    "totalAmount": 30,
+    "item": "Retouching"
     
  },{
-    "title": "Invoice 1 Photography",
+    "title": "Invoice 3",
     "date": "05/06/2023",
-    "nameFrom": "Ori",
-    "emailFrom": "ori@gmail.com",
-    "addressFrom": "123 Lookout Ave",
-    "phoneNumberFrom": 1214467793,
-    "nameTo": "Client",
-    "emailTo": "client@email.com",
-    "addressTo": "126 Street Blvd",
-    "PhoneNumberTo": 3235652266,
+    "nameFrom": "Stacy",
+    "emailFrom": "stacy@gmail.com",
+    "addressFrom": "1235 Look Ave",
+    "phoneNumberFrom": 1254467793,
+    "nameTo": "Client not now",
+    "emailTo": "clientnotnow@email.com",
+    "addressTo": "333 Street Blvd",
+    "PhoneNumberTo": 8184572196,
     "terms": "payment on receipt",
-    "rate": 50,
-    "quatity": 3,
-    "totalAmount": 150,
-    "item": "Photography"
+    "rate": 10,
+    "quatity": 90,
+    "totalAmount": 900,
+    "item": "Screenprinting"
     
  }
 ]
