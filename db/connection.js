@@ -9,7 +9,7 @@ const mongoose = require("mongoose");
 const mongoURI =
   process.env.NODE_ENV === "production"
     ? process.env.DB_URL
-    : "mongodb://localhost/express-mvc";
+    : "mongodb://localhost/invoice-me-backend";
 
 // Use the mongoose connect method to connect to the
 // database.  The connect method takes two arguments:
@@ -20,6 +20,7 @@ mongoose
     useNewUrlParser: true,
     useUnifiedTopology: true,
   })
+
   // The connect method is asynchronous, so we can use
   // .then/.catch to run callback functions
   // when the connection is opened or errors out.
