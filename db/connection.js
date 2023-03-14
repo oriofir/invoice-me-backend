@@ -31,3 +31,5 @@ mongoose
 
 // Export mongoose so we can use it elsewhere
 module.exports = mongoose;
+
+// mongodb+srv://oriofir00:<password>@cluster0.ebcdl8h.mongodb.net/?retryWrites=true&w=majority
