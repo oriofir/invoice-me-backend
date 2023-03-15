@@ -1,4 +1,4 @@
-const Invoice = require("../models/invoice-model");
+const Invoice = require("../models/invoice-model.js");
 
 const seedData = require("./invoice-seeds.json");
 
