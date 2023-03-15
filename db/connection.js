@@ -19,7 +19,6 @@ mongoose
   .connect(mongoURI, {
     useNewUrlParser: true,
     useUnifiedTopology: true,
-    useCreateIndex: true,
   })
 
   // The connect method is asynchronous, so we can use
